@@ -53,7 +53,4 @@ int main(){
     }// terminar el ciclo * Ctrl+C para terminar el programa en terminal.
     return 0;
 
-}// cierre main 
-asfjaslfjasfl
-csvaaf
-njsfa
+}// cierre main
