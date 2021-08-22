@@ -1,7 +1,7 @@
 /*
 
 Autor: Alejandro Flores Jacobo 
-Creditos: @gabrielhuav
+Creditos: github @gabrielhuav
 
 Fecha: 22/08/2021
 
@@ -52,4 +52,5 @@ int main(){
 
     }// terminar el ciclo * Ctrl+C para terminar el programa en terminal.
     return 0;
+
 }// cierre main 
